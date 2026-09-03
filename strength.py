@@ -9,6 +9,3 @@ class School:
 teacher1 = Teacher("SKS")
 school = School(teacher1)
 school.show()
-a= 10
-b= 20
-print(a+b)
